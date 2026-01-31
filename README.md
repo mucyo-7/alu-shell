@@ -1,10 +1,11 @@
-# ALU Shell
+# alu-shell
 
-This repository contains shell scripting exercises and projects.
+## Shell Basics
 
-## Description
-Learning shell basics through practical exercises including navigation, file
- manipulation, and scripting fundamentals.
+This repository contains solutions to shell scripting exercises.
 
-## Author
-kimirantar                                                                  EOF
+### Description
+Learning shell basics through practical exercises including navigation, file manipulation, and scripting fundamentals.
+
+### Author
+kimirantare
