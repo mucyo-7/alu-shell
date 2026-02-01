@@ -1,9 +1,15 @@
-# ALU Shell
+# alu-shell
 
-This repository contains shell scripting projects and exercises.
+## Description
+This repository contains shell scripting projects for the ALU Software Engineering program.
 
 ## Projects
 
-### Permissions
-Scripts related to user permissions and management.
+### basics
+Introduction to shell commands and navigation.
 
+### permissions
+User and file permissions management in Linux/Unix systems.
+
+## Author
+mucyo-7
