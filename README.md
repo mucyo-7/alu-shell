@@ -1,4 +1,4 @@
-# ALU Shell
+# ALU shell
 
-Shell scripting projects and exercises.
-EOF 
+
+This repo has shell scripting projects
