@@ -1,4 +1,9 @@
-# ALU shell
+# ALU Shell
 
+This repository contains shell scripting projects and exercises.
 
-This repo has shell scripting projects
+## Projects
+
+### Permissions
+Scripts related to user permissions and management.
+
